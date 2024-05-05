@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:snrrrns/warload-archives-app.git
+[submodule "api"]
+	path = api
+	url = git@github.com:snrrrns/warload_archives_api.git
